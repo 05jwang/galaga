@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.asm": "lc3",
+        "gba.h": "c"
+    }
+}
